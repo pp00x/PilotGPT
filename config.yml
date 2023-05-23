@@ -1,0 +1,6 @@
+API_KEY: <your-openai-key>
+GPT_MODEL: "gpt-3.5-turbo"
+OS: <your-os>
+DESK_ENV: <your-desktop-environment>
+WEB_BRO: <your-web-browser>
+NEXT_CMD_DELAY: <how-much-delay-between-commands>

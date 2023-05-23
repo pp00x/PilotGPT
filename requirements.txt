@@ -1,0 +1,4 @@
+openai==0.27.7
+PyAudio==0.2.13
+PyAutoGUI==0.9.53
+pyyaml==6.0
