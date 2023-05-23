@@ -3,6 +3,8 @@ PilotGPT is Python program that enables you to operate your computer using natur
 
 ## Usecases:
 
+
+
 ### Requirements
 ### Installation
 ### Configuration
